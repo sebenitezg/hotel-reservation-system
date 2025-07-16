@@ -9,7 +9,7 @@ This system has a Microservice architecture.
 # Associated Backend Microservices
 - [Hotel Service](https://github.com/sebenitezg/hotel-service)
 - Booking Service
-- Payment Service
+- [Payment Service](https://github.com/sebenitezg/hotel-payment-service)
 - Rate Service
 - AuthN/AuthZ Service
 - Notification Service
