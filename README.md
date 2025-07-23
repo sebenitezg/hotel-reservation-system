@@ -12,7 +12,7 @@ This system has a Microservice architecture.
 - [Payment Service](https://github.com/sebenitezg/hotel-payment-service)
 - Rate Service
 - AuthN/AuthZ Service
-- Notification Service
+- [Notification Service](https://github.com/sebenitezg/hotel-notifications-service)
 
 # Associated Frontend
 
